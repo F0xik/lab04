@@ -1,0 +1,15 @@
+C:\Users\информатика\source\repos\lab03\lab03\bin\Debug\net6.0\lab03.exe
+C:\Users\информатика\source\repos\lab03\lab03\bin\Debug\net6.0\lab03.deps.json
+C:\Users\информатика\source\repos\lab03\lab03\bin\Debug\net6.0\lab03.runtimeconfig.json
+C:\Users\информатика\source\repos\lab03\lab03\bin\Debug\net6.0\lab03.dll
+C:\Users\информатика\source\repos\lab03\lab03\bin\Debug\net6.0\lab03.pdb
+C:\Users\информатика\source\repos\lab03\lab03\obj\Debug\net6.0\lab03.csproj.AssemblyReference.cache
+C:\Users\информатика\source\repos\lab03\lab03\obj\Debug\net6.0\lab03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\информатика\source\repos\lab03\lab03\obj\Debug\net6.0\lab03.AssemblyInfoInputs.cache
+C:\Users\информатика\source\repos\lab03\lab03\obj\Debug\net6.0\lab03.AssemblyInfo.cs
+C:\Users\информатика\source\repos\lab03\lab03\obj\Debug\net6.0\lab03.csproj.CoreCompileInputs.cache
+C:\Users\информатика\source\repos\lab03\lab03\obj\Debug\net6.0\lab03.dll
+C:\Users\информатика\source\repos\lab03\lab03\obj\Debug\net6.0\refint\lab03.dll
+C:\Users\информатика\source\repos\lab03\lab03\obj\Debug\net6.0\lab03.pdb
+C:\Users\информатика\source\repos\lab03\lab03\obj\Debug\net6.0\lab03.genruntimeconfig.cache
+C:\Users\информатика\source\repos\lab03\lab03\obj\Debug\net6.0\ref\lab03.dll
